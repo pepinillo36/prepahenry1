@@ -1,2 +1,2 @@
 # prepahenry1
-Es el primer repositorio que se ha creado
+este proyecto es una prueba de clonar
